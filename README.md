@@ -1,18 +1,31 @@
 # Bridging observations and numerical modelling of the ocean using machine learning
 
 ## Link to the slides
+download the pdf: [download the pdf](ml_ocean_brajard_compressed.pdf)
+
+If you are interested by the power point (>100MB) please contact: julien.brajard@nersc.no
 
 ## Open calls
 - Session Data assimilation and machine learning at the Living Planet Symposium (Bonn, May 2022)
+
 Deadline 26 November 2021
+
 https://lps22.esa.int/
+
 - Session Machine learning for Earth system science at EGU (Vienna, April 2022)
+
 Deadline 12 January 2022
+
 https://www.egu22.eu
+
 - New journal: Environmental data science (Cambridge University press)
+
 https://www.cambridge.org/core/journals/environmental-data-science
+
 - We are hiring: Postdoc in Machine learning and data assimilation improve sea-ice reconstruction
+
 Deadline 15 December 2021
+
 https://www.jobbnorge.no/en/available-jobs/job/211076/vacancy-post-doctoral-position
 
 
@@ -27,9 +40,15 @@ http://dx.doi.org/10.1098/rsta.2020.0086
 
 ## Credits
 Slide 2 (i) Gettelman and Rood, 2016 (ii) Meincke und Latif, 1995 (iii) Dirmeyer
+
 Slide 3 (i) CMEMS (ii) Gregg 2007, JMS (iii) CS2SMOS (iv) ARGO 
+
 Slide 4 (i) CMEMS (ii) Gregg 2007, JMS (iii)NERSC
+
 Slide 5 Gregg 2007, JMS
+
 Slide 6 Gregg 2007, JMS
+
 Slide 7 ECMWF
+
 Slide 11 CMEMS
