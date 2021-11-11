@@ -1,5 +1,9 @@
 # Bridging observations and numerical modelling of the ocean using machine learning
 
+Seminar given in the series Ai4good: https://aiforgood.itu.int/
+
+Link to the video: https://www.youtube.com/watch?v=BLF4w-4JUe4&ab_channel=AIforGood
+
 ## Link to the slides
 download the pdf: [download the pdf](ml_ocean_brajard_compressed.pdf)
 
